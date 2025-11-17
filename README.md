@@ -1,9 +1,3 @@
-# Mi-script
-
-
-
-
-
 -- Variable global para guardar la posición
 _G.posicionGuardada = nil
 
